@@ -91,6 +91,7 @@ python src/entity_filtering.py # idx 4 for SYDNEY, 5 for UCM
 ```
 
 ### Training
+
 For COCO,
 ```
 # bash scripts/train_coco.sh CUDA_DEVICE TEST_NAME RT_PATH
@@ -113,6 +114,18 @@ For MSRVTT
 ```
 # bash scripts/train_msrvtt.sh CUDA_DEVICE TEST_NAME RT_PATH
 bash scripts/train_msrvtt.sh 0 msrvtt annotations/msrvtt/msrvtt_train_woclass.json
+```
+
+For SYDNEY
+```
+# bash scripts/train_sydney.sh CUDA_DEVICE TEST_NAME RT_PATH
+bash scripts/train_sydney.sh 0 sydney annotations/sydney/sydney_train_woclass.json
+```
+
+For UCM
+```
+# bash scripts/train_ucm.sh CUDA_DEVICE TEST_NAME RT_PATH
+bash scripts/train_ucm.sh 0 ucm annotations/ucm/ucm_train_woclass.json
 ```
 
 ### Inference
