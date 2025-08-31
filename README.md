@@ -1,4 +1,4 @@
-# CZC
+# CZC-TMM
 CZC: Continual Zero-shot Image Captioning (submmit to TMM)
 
 
