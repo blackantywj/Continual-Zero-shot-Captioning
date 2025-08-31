@@ -1,5 +1,5 @@
 # CZC
-CZC: Continual Zero-shot Image Captioning (submmit to AAAI2026)
+CZC: Continual Zero-shot Image Captioning (submmit to TMM)
 
 
 ## Abstract
