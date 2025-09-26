@@ -1,5 +1,5 @@
 # CZC-TIP
-CZC: Continual Zero-shot Image Captioning (submmit to TIP)
+CZC: Continual Zero-shot Captioning (submmit to TIP)
 
 
 ## Abstract
