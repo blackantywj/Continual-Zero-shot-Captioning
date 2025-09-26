@@ -1,5 +1,5 @@
-# CZC-TMM
-CZC: Continual Zero-shot Image Captioning (submmit to TMM)
+# CZC-TIP
+CZC: Continual Zero-shot Image Captioning (submmit to TIP)
 
 
 ## Abstract
